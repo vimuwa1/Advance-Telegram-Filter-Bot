@@ -79,6 +79,10 @@ You can deploy this bot anywhere.
 </p>
 </details>
 
+#Deploy To Railway
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FAlbertEinsteinTG%2FAdv-Auto-Filter-Bot-V2&envs=API_HASH%2CAPP_ID%2CBOT_TOKEN%2CDB_URI%2CUSER_SESSION&API_HASHDesc=Your+API+Hash+From+my.telegram.org+or+%40UseTGXBot&APP_IDDesc=Your+APP+ID+From+my.telegram.org+or+%40UseTGXBot&BOT_TOKENDesc=Your+Bot+Token+From+%40BotFather&DB_URIDesc=Your+Mongo+DB+URL+Obtained+From+mongodb.com&USER_SESSIONDesc=A+Pyrogram+User+Session+String.+Generated+From+%40PyrogramStringBot&referralCode=ll7nou)
+
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
